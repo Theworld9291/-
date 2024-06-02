@@ -3,6 +3,7 @@ body {
 }
 .End {
     margin-top: 100px;
+    margin-right: 100%;
 }
 p {
     color: white;
@@ -51,4 +52,13 @@ li {
 }
 .shl {
     color: white;
+}
+.kotik {
+    margin-bottom: 10px;
+}
+.kasatka {
+    margin-bottom: 10px;
+}
+.rzhan {
+    margin-bottom: 10px;
 }
